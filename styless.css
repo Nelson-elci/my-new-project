@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.hero{
+    width: 500px;
+    background-color: rgb(214, 255, 241);
+    padding: 2rem;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+button{
+    border: none;
+    padding: 1rem;
+    background-color: brown;
+    color: white;
+    border-radius: 15px;
+    margin-top: 1.5rem;
+    cursor: pointer;
+}
